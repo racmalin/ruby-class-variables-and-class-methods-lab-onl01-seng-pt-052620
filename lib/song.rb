@@ -51,7 +51,7 @@ end
 
 lucifer = Song.new("Luicifer", "Jay-Z", "rap")
 ninety_nine_problems = Song.new("99 Problems", "Jay-Z", "rap")
-a_yearz = Song.new("A Yearz", "Adam Johns", "oldtime")
+hit_me = Song.new("A Yearz", "Adam Johns", "oldtime")
 
 puts lucifer.name
 puts lucifer.artist
